@@ -1,0 +1,31 @@
++*In[7]:*+
+[source, ipython3]
+----
+#This is a simple arithmetic expression to multiply then add integers.
+(3*4)+5
+----
+
+
++*Out[7]:*+
+----17----
+
+
++*In[9]:*+
+[source, ipython3]
+----
+# This will convert 200 minutes to hours by diving by 60.
+200/60
+----
+
+
++*Out[9]:*+
+----3.3333333333333335----
+
+
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
